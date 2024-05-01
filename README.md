@@ -1,1 +1,1 @@
-Excerice Javascript
+Excercice Javascript
